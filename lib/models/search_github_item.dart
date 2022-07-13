@@ -1,0 +1,1 @@
+enum SearchGithubItem { none, repository, issue, user}
